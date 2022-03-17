@@ -1,0 +1,16 @@
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\bin\Debug\net5.0\Builder Pattern.exe
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\bin\Debug\net5.0\Builder Pattern.deps.json
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\bin\Debug\net5.0\Builder Pattern.runtimeconfig.json
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\bin\Debug\net5.0\Builder Pattern.runtimeconfig.dev.json
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\bin\Debug\net5.0\Builder Pattern.dll
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\bin\Debug\net5.0\ref\Builder Pattern.dll
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\bin\Debug\net5.0\Builder Pattern.pdb
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\obj\Debug\net5.0\Builder Pattern.csproj.AssemblyReference.cache
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\obj\Debug\net5.0\Builder Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\obj\Debug\net5.0\Builder Pattern.AssemblyInfoInputs.cache
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\obj\Debug\net5.0\Builder Pattern.AssemblyInfo.cs
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\obj\Debug\net5.0\Builder Pattern.csproj.CoreCompileInputs.cache
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\obj\Debug\net5.0\Builder Pattern.dll
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\obj\Debug\net5.0\ref\Builder Pattern.dll
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\obj\Debug\net5.0\Builder Pattern.pdb
+D:\Moje stvari\Design Pattern - Builder\Builder Pattern\obj\Debug\net5.0\Builder Pattern.genruntimeconfig.cache
